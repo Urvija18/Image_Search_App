@@ -1,7 +1,7 @@
 {
   "description": "description",
   "authors": "author",
-  "hommepage":"https://github.com/Urvija18/Image-Search-App",
+  "hommepage": "https://github.com/Urvija18/Image-Search-App",
   "main": "pathToMain",
   "name": "my-app",
   "version": "0.1.0",
@@ -47,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
